@@ -1,0 +1,46 @@
+
+a{
+    color: #fff !important;
+  font-size: large;
+}
+button i{
+    color: #fff !important;
+}
+.dropdown-menu{
+  background: rgb(5, 169, 187);
+    /* padding: 10px;
+    border-bottom: 1px dotted #fff;
+    border-radius: 0;
+    width: 150px;
+    text-align: left; */
+    
+}
+a.dropdown-item:hover{
+  background: rgb(5, 169, 187);
+  font-weight: 1000;
+  
+}
+.canva
+{
+    width: 100%;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+  .nav-item:hover{
+    /* transform: scale(2);
+    color: #e8e8e8; */
+
+    /* background: rgb(89, 234, 217);
+    border-radius: 3px;   */
+   
+    font-weight: 1000;
+  
+  }
+  .navbar-brand{
+    background: rgb(5, 169, 187);
+    border-radius: 5px; 
+    padding-left: 10px;
+    padding-right: 10px;
+    text-size-adjust: large;
+  }

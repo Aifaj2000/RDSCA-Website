@@ -1,0 +1,175 @@
+.flex-container{
+  width: 100%;
+  height: auto;
+  display: flex;
+  color: #DDD;
+
+}
+.flex-box{
+  width: 300px;
+  height: 45px;
+  background: #00807b;
+  color: white;
+  font-size: large;
+  text-align: center;
+  line-height: 45px;
+  border-radius: 5px;
+ margin-right: 30px;
+ 
+}
+.about{
+
+  width: 100%;
+  align-items: center;
+}
+
+
+ /* .active-nav{
+    background-color: #03045E;
+    color: white;
+    justify-content: flex-start;
+    padding: 10px 0px;
+    display: flex;
+  }  */
+
+  
+
+  .img-fluid{
+    margin-top: 15px;
+    margin-bottom: 1px;
+   
+  }
+
+  .row{
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .fav{
+    padding: 10px 20px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-right: 30px;
+
+  }
+
+  .size{
+    margin-right: 30px;
+    display: flex;
+}
+
+
+.col-lg-3 {
+  margin-top: -50px;
+}
+
+.dimg{
+  float: right;
+  margin-top: -416px;
+  
+}
+
+
+
+
+
+
+
+
+ /* ========================= Fevoretes Link Code ===================================== */
+ 
+ /* .box{
+  transition: 1s;
+
+}
+.box:hover{
+  transform: scale(2);
+  color: #03045E;
+}
+  
+ 
+  .side-bar {
+    margin-bottom:1px;
+    margin-top: 19px;
+    margin-left: 10px;
+    margin-right: 20px;
+  
+    float:right;
+    background-color:#f7f7f7;
+  }
+
+.mcd-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+background: #f7f7f7;
+border-radius: 2px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+width: 250px;
+}
+
+.mcd-menu li a {
+  display: block;
+  text-decoration: none;
+  padding: 12px 20px;
+  color: #777;
+text-align: left;
+height: 55px;
+position: relative;
+border-bottom: 1px solid #EEE;
+}
+
+.mcd-menu li a.active {
+position: relative;
+color: #ffbf00;
+border:0;
+box-shadow: 0 0 5px #DDD;
+-moz-box-shadow: 0 0 5px #DDD;
+-webkit-box-shadow: 0 0 5px #DDD;
+border-left: 9px solid #2100f8;
+border-right: 9px solid #0c00f5;
+margin: 0 -4px;
+  padding:17px 50px}
+
+.mcd-menu li a.active:before {
+content: "";
+position: absolute;
+top: 41%;
+left: 0;
+border-left: 11px solid #ff0000;
+border-top: 5px solid transparent;
+border-bottom: 5px solid transparent;
+}
+
+
+.mcd-menu li a.active:after {
+content: "";
+position: absolute;
+top: 41%;
+right: 0;
+border-right: 11px solid #fe0000;
+border-top: 5px solid transparent;
+border-bottom: 5px solid transparent;
+}  */
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
